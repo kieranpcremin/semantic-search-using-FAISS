@@ -21,15 +21,7 @@ Type a natural language query — in your own words — and get the most relevan
 
 ---
 
-## 🖥️ Demo
-
-The Streamlit web app provides a search interface with relevance scoring and document upload.
-
-```bash
-streamlit run app/streamlit_app.py
-```
-
-**Try these searches on the sample documents:**
+## 🖥️ Try These Searches
 
 | Query | What It Finds |
 |-------|--------------|
