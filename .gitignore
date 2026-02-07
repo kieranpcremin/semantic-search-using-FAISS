@@ -1,0 +1,26 @@
+data/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.env
+.venv/
+*.pt
+*.bin
+
+# Learning notes (personal, not for repo)
+learningnotes.md
+
+# Claude Code
+.claude/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
