@@ -366,13 +366,12 @@ Use the file upload in the sidebar to add your own `.md`, `.txt`, or `.pdf` docu
 
 ---
 
-## 📚 Portfolio Context
-
-This is the second project in a machine learning portfolio, each covering a different data type:
+## 📚 Data Types And Tech Stacks
 
 | Project | Data Type | ML Type | Key Tech |
 |---------|----------|---------|----------|
 | [Safety Detector](https://github.com/kieranpcremin/hard-hat-detector) | Images | Classification (CNN) | PyTorch, ResNet18 |
+| [Safety Detector (.NET)](https://github.com/kieranpcremin/safety-detector-dotnet) | Images | Classification (CNN) | .NET, TensorFlow, ML.NET |
 | **Semantic Search** | **Text** | **Embeddings + Search** | **SentenceTransformers, FAISS** |
 | [Timeline Predictor](https://github.com/kieranpcremin/project-timeline-predictor) | Tabular | Regression | scikit-learn, XGBoost |
 
