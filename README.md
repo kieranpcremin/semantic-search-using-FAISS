@@ -2,9 +2,6 @@
 
 **A semantic search engine that understands the *meaning* of your queries — not just the keywords — to find the most relevant sections across technical document collections, built with SentenceTransformers and FAISS.**
 
-<img width="1862" height="967" alt="image" src="https://github.com/user-attachments/assets/0ebc424c-f853-496b-b258-e9ef14dc6170" />
-
-
 [![Python](https://img.shields.io/badge/Python-3.10+-blue)](https://www.python.org/)
 [![SentenceTransformers](https://img.shields.io/badge/SentenceTransformers-2.2+-green)](https://www.sbert.net/)
 [![FAISS](https://img.shields.io/badge/FAISS-1.7+-orange)](https://github.com/facebookresearch/faiss)
@@ -12,6 +9,9 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
+
+<img width="1862" height="967" alt="image" src="https://github.com/user-attachments/assets/0ebc424c-f853-496b-b258-e9ef14dc6170" />
+
 
 ## 🎯 What This Project Does
 
